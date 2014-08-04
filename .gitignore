@@ -1,0 +1,8 @@
+*.ds*
+*.ncb
+*.opt
+*.o
+*.plg
+*.pyc
+*.swp
+debug
